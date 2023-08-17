@@ -1,6 +1,6 @@
 </br>
 <div align="center">
-<img src="https://github.com/seonnn/perfume-search-project/assets/90498108/7955b77d-6b19-4102-bbc0-17881e461027" style="background-color: white"/>
+<img src="https://github.com/seonnn/sfac-lms-team-a/assets/90498108/66675974-adc6-491d-b692-bc03a2db895c" />
 </br>
 </div>
 
